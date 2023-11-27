@@ -1,0 +1,8 @@
+Flask
+flask-restx
+Flask-SQLAlchemy
+SQLAlchemy
+Werkzeug==2.3.3
+PyJWT
+marshmallow
+Flask-Migrate
