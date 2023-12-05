@@ -1,8 +1,4 @@
-# Technical Exam Web_Programming
-
-## Overview
-
-This project contain the Tech-Exam 1 & 2
+# Basic Trading App
 
 ## Project Information
 - Application Structure: The Flask application is structured with models, routes, and services.
